@@ -1,3 +1,1 @@
-const hello = () => "aws-platform-starter-kit";
-
-module.exports = { hello };
+export const hello = () => "aws-platform-starter-kit";

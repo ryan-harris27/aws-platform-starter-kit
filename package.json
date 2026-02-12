@@ -1,6 +1,7 @@
 {
   "name": "aws-platform-starter-kit",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -18,7 +19,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/ryan-harris27/aws-platform-starter-kit/issues"
   },
