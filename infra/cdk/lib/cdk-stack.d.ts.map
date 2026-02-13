@@ -1,0 +1,1 @@
+{"version":3,"file":"cdk-stack.d.ts","sourceRoot":"","sources":["cdk-stack.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,GAAG,MAAM,kBAAkB,CAAC;AACxC,OAAO,EAAE,SAAS,EAAE,MAAM,YAAY,CAAC;AAIvC,qBAAa,QAAS,SAAQ,GAAG,CAAC,KAAK;gBACzB,KAAK,EAAE,SAAS,EAAE,EAAE,EAAE,MAAM,EAAE,KAAK,CAAC,EAAE,GAAG,CAAC,UAAU;CAejE"}
